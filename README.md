@@ -11,5 +11,5 @@ mesiwotsodakpah@gmail.com
 3. Enter a global unique bucket name and select a region.
 4. Click "Create bucket" to complete the process.
 
-Your configuration should match what is below:
-![Diagram](https://github.com/Mesiwotso-Gloria/S3-Project/blob/main/Screenshot.png?raw=true)
+If succesful,your confirmation message should match what is below:
+![Diagram]()
