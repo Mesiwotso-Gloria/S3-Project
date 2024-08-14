@@ -1,1 +1,1 @@
-# S3-Project
+# Static website in Amazon S3
