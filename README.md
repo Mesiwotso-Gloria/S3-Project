@@ -30,3 +30,22 @@ Your configuration should match the following:
 ![Diagram](
 https://github.com/Mesiwotso-Gloria/S3-Project/blob/main/images/Screenshot%20(373).png?raw=true)
 ![Diagram](https://github.com/Mesiwotso-Gloria/S3-Project/blob/main/images/Screenshot%20(374).png?raw=true)
+
+## Set Bucket Policy for Public Access
+1. Go to the "Permissions" tab of your bucket.
+2. Click "Bucket Policy."
+3. Add the following policy to allow public read access to your files:
+{
+  "Version": "2012-10-17",
+  "Statement": [
+     {
+      "Sid": "PublicReadGetObject",
+      "Effect": "Allow",
+      "Principal": "*",
+      "Action": "s3:GetObject",
+      "Resource": "arn:aws:s3:::YOUR_BUCKET_NAME/*"
+    }
+  ]
+}
+Replace YOUR_BUCKET_NAME with your actual bucket name.
+Click "Save."
