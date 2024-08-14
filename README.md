@@ -14,7 +14,7 @@ mesiwotsodakpah@gmail.com
 If succesful,your confirmation message should match what is below:
 ![Diagram](https://github.com/Mesiwotso-Gloria/S3-Project/blob/main/images/Screenshot.png?raw=true)
 
-##Configure Bucket for Static Website Hosting
+## Configure Bucket for Static Website Hosting
 1. Navigate to your bucket in the S3 Console.
 2. Go to the "Properties" tab.
 3. Scroll down to the "Static website hosting" section.
@@ -25,4 +25,5 @@ If succesful,your confirmation message should match what is below:
 8. Click "Save changes."
 
 Your configuration should match the following:
+![Diagram](https://github.com/Mesiwotso-Gloria/S3-Project/blob/main/images/Screenshot%20(389).png?raw=true)
 ![Diagram](
