@@ -66,7 +66,7 @@ https://github.com/Mesiwotso-Gloria/S3-Project/blob/main/images/Screenshot%20(37
 
 Your configuration should match the following:
 ![](https://github.com/Mesiwotso-Gloria/S3-Project/blob/main/images/Screenshot%20(389).png?raw=true)
-
+![](https://github.com/Mesiwotso-Gloria/S3-Project/blob/main/images/Screenshot%20(391).png?raw=true)
 
 ## Upload Your Website Files
 1. Go to the "Objects" tab of your bucket.
