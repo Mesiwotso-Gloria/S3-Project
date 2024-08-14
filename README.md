@@ -51,7 +51,7 @@ https://github.com/Mesiwotso-Gloria/S3-Project/blob/main/images/Screenshot%20(37
 }
 
 ```
-Replace YOUR_BUCKET_NAME with your actual bucket name.
+   Replace YOUR_BUCKET_NAME with your actual bucket name.
 
 4. Click "Save."
 
