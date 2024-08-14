@@ -63,7 +63,9 @@ https://github.com/Mesiwotso-Gloria/S3-Project/blob/main/images/Screenshot%20(37
 5. Click "Save changes."
 6. Ensure that the "Bucket Versioning" section now shows that 
    versioning is enabled.
-![](
+
+Your configuration should match the following:
+![](https://github.com/Mesiwotso-Gloria/S3-Project/blob/main/images/Screenshot%20(389).png?raw=true)
 
 
 ## Upload Your Website Files
