@@ -12,4 +12,4 @@ mesiwotsodakpah@gmail.com
 4. Click "Create bucket" to complete the process.
 
 If succesful,your confirmation message should match what is below:
-![Diagram]()
+![Diagram](https://github.com/Mesiwotso-Gloria/S3-Project/blob/main/images/Screenshot.png?raw=true)
