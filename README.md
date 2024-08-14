@@ -29,3 +29,4 @@ Your configuration should match the following:
 ![Diagram](https://github.com/Mesiwotso-Gloria/S3-Project/blob/main/images/Screenshot%20(372).png?raw=true)
 ![Diagram](
 https://github.com/Mesiwotso-Gloria/S3-Project/blob/main/images/Screenshot%20(373).png?raw=true)
+![Diagram](https://github.com/Mesiwotso-Gloria/S3-Project/blob/main/images/Screenshot%20(374).png?raw=true)
