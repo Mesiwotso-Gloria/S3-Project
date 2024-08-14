@@ -13,3 +13,16 @@ mesiwotsodakpah@gmail.com
 
 If succesful,your confirmation message should match what is below:
 ![Diagram](https://github.com/Mesiwotso-Gloria/S3-Project/blob/main/images/Screenshot.png?raw=true)
+
+##Configure Bucket for Static Website Hosting
+1. Navigate to your bucket in the S3 Console.
+2. Go to the "Properties" tab.
+3. Scroll down to the "Static website hosting" section.
+4. Click "Edit."
+5. Select "Enable."
+6. For "Index document," enter the name of your main HTML file (e.g., index.html).
+7. Optionally, specify an "Error document" if you have one (e.g., 404.html).
+8. Click "Save changes."
+
+Your configuration should match the following:
+![Diagram](
