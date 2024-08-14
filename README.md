@@ -1,6 +1,10 @@
 # Static website in Amazon S3
 ## Overview
-This tutorial wal you through how to set up static website hosting using Amazon S3. It allows you to host a website with AWS, providing high availability and scalability.
+This tutorial walk you through how to set up a static website using Amazon S3. It allows you to host a website with AWS, providing high availability and scalability.
+
+Errors or corrections? Contact
+mesiwotsodakpah@gmail.com 
+
 ## Create an S3 Bucket
 1. Go to the Amazon S3 Console.
 2. Click on "Create bucket."
@@ -8,3 +12,4 @@ This tutorial wal you through how to set up static website hosting using Amazon 
 4. Click "Create bucket" to complete the process.
 
 Your configuration should match what is below:
+![Diagram](
