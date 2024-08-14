@@ -63,4 +63,15 @@ https://github.com/Mesiwotso-Gloria/S3-Project/blob/main/images/Screenshot%20(37
 5. Click "Save changes."
 6. Ensure that the "Bucket Versioning" section now shows that 
    versioning is enabled.
+![](
 
+
+## Upload Your Website Files
+1. Go to the "Objects" tab of your bucket.
+2. Click "Upload" and select your website files (e.g., HTML, CSS, JavaScript).
+3. Click "Upload" to upload your files.
+
+## Access Your Website
+1. Go back to the "Properties" tab of your bucket.
+2. In the "Static website hosting" section, note the "Bucket website endpoint."
+3. Open the endpoint URL in your browser to view your website.
