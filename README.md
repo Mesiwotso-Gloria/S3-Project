@@ -35,10 +35,12 @@ https://github.com/Mesiwotso-Gloria/S3-Project/blob/main/images/Screenshot%20(37
 1. Go to the "Permissions" tab of your bucket.
 2. Click "Bucket Policy."
 3. Add the following policy to allow public read access to your files:
+   
+```json
 {
   "Version": "2012-10-17",
   "Statement": [
-     {
+    {
       "Sid": "PublicReadGetObject",
       "Effect": "Allow",
       "Principal": "*",
@@ -47,5 +49,6 @@ https://github.com/Mesiwotso-Gloria/S3-Project/blob/main/images/Screenshot%20(37
     }
   ]
 }
+
 Replace YOUR_BUCKET_NAME with your actual bucket name.
 Click "Save."
