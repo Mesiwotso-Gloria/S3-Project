@@ -55,3 +55,12 @@ https://github.com/Mesiwotso-Gloria/S3-Project/blob/main/images/Screenshot%20(37
 
 4. Click "Save."
 
+## Enabling Versioning on an S3 Bucket
+1. Click on the "Properties" tab.
+2. Scroll down to the "Bucket Versioning" section.
+3. Click "Edit."
+4. Select "Enable" to activate versioning.
+5. Click "Save changes."
+6. Ensure that the "Bucket Versioning" section now shows that 
+   versioning is enabled.
+
