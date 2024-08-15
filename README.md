@@ -102,4 +102,5 @@ Your configuration should match the following:
 3. Open the endpoint URL in your browser to view your website.
 
 Your configuration should match the following:
-![](
+![](https://github.com/Mesiwotso-Gloria/S3-Project/blob/main/images/Screenshot%20(376).png?raw=true)
+
