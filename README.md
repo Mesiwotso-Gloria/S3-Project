@@ -107,4 +107,4 @@ Your configuration should match the following:
 
 Your configuration should match the following:
 ![](https://github.com/Mesiwotso-Gloria/S3-Project/blob/main/images/Screenshot%20(376).png?raw=true)
-
+![](https://github.com/Mesiwotso-Gloria/S3-Project/blob/main/images/Screenshot%20(382).png?raw=true)
