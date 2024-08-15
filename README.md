@@ -49,8 +49,9 @@ Your configuration should match the following:
 
 ## Set Bucket Policy for Public Access
 1. Go to the "Permissions" tab of your bucket.
-2. Click "Bucket Policy."
-3. Add the following policy to allow public read access to your files:
+2. Scroll down to the "Bucket policy" section.
+3. Click "edit."
+4. Add the following policy to allow public read access to your files:
    
 ```json
 {
@@ -72,7 +73,7 @@ Your configuration should match the following:
 4. Click "Save."
 
 Your configuration should match the following:
-
+![](https://github.com/Mesiwotso-Gloria/S3-Project/blob/main/images/Screenshot%20(380).png?raw=true)
 
 ## Enabling Versioning on an S3 Bucket
 1. Click on the "Properties" tab.
