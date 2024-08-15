@@ -93,6 +93,7 @@ Your configuration should match the following:
 Your configuration should match the following:
 ![](https://github.com/Mesiwotso-Gloria/S3-Project/blob/main/images/Screenshot%20(365).png?raw=true)
 ![](https://github.com/Mesiwotso-Gloria/S3-Project/blob/main/images/Screenshot%20(366).png?raw=true)
+![](https://github.com/Mesiwotso-Gloria/S3-Project/blob/main/images/Screenshot%20(369).png?raw=true)
 ![](
 
 ## Access Your Website
