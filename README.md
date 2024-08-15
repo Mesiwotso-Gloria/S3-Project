@@ -89,7 +89,9 @@ Your configuration should match the following:
 1. Go to the "Objects" tab of your bucket.
 2. Click "Upload" and select your website files (e.g., HTML, CSS, JavaScript).
 3. Click "Upload" to upload your files.
-![](
+
+Your configuration should match the following:
+![](https://github.com/Mesiwotso-Gloria/S3-Project/blob/main/images/Screenshot%20(365).png?raw=true)
 
 ## Access Your Website
 1. Go back to the "Properties" tab of your bucket.
