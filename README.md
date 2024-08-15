@@ -71,6 +71,9 @@ Your configuration should match the following:
 
 4. Click "Save."
 
+Your configuration should match the following:
+
+
 ## Enabling Versioning on an S3 Bucket
 1. Click on the "Properties" tab.
 2. Scroll down to the "Bucket Versioning" section.
