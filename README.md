@@ -31,6 +31,20 @@ Your configuration should match the following:
 https://github.com/Mesiwotso-Gloria/S3-Project/blob/main/images/Screenshot%20(373).png?raw=true)
 ![Diagram](https://github.com/Mesiwotso-Gloria/S3-Project/blob/main/images/Screenshot%20(374).png?raw=true)
 
+## Disable Block Public Access Settings
+Disabling Block Public Access on S3 buckets is typically done when you need to make content accessible to the public, such as for hosting websites, distributing files, or supporting legacy applications. While this configuration is sometimes necessary, it's crucial to carefully manage and monitor the data being exposed to ensure it aligns with your security and business requirements.
+
+1. Click on the "Permissions" tab.
+2. Scroll down to "Block public access" (bucket settings) section.
+3. Click "Edit."
+4. uncheck "Block all public access" box.
+5. type "confirm."
+6. Click "Confirm."
+
+Your configuration should match the following:
+![](
+
+
 ## Set Bucket Policy for Public Access
 1. Go to the "Permissions" tab of your bucket.
 2. Click "Bucket Policy."
