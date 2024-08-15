@@ -94,9 +94,12 @@ Your configuration should match the following:
 ![](https://github.com/Mesiwotso-Gloria/S3-Project/blob/main/images/Screenshot%20(365).png?raw=true)
 ![](https://github.com/Mesiwotso-Gloria/S3-Project/blob/main/images/Screenshot%20(366).png?raw=true)
 ![](https://github.com/Mesiwotso-Gloria/S3-Project/blob/main/images/Screenshot%20(369).png?raw=true)
-![](
+![](https://github.com/Mesiwotso-Gloria/S3-Project/blob/main/images/Screenshot%20(370).png?raw=true)
 
 ## Access Your Website
 1. Go back to the "Properties" tab of your bucket.
 2. In the "Static website hosting" section, note the "Bucket website endpoint."
 3. Open the endpoint URL in your browser to view your website.
+
+Your configuration should match the following:
+![](
