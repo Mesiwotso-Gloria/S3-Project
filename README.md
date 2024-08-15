@@ -43,6 +43,7 @@ Disabling Block Public Access on S3 buckets is typically done when you need to m
 
 Your configuration should match the following:
 ![](https://github.com/Mesiwotso-Gloria/S3-Project/blob/main/images/Screenshot%20(379).png?raw=true)
+![](https://github.com/Mesiwotso-Gloria/S3-Project/blob/main/images/Screenshot%20(385).png?raw=true)
 ![](
 
 
