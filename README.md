@@ -109,3 +109,5 @@ Your configuration should match the following:
 Your configuration should match the following:
 ![](https://github.com/Mesiwotso-Gloria/S3-Project/blob/main/images/Screenshot%20(376).png?raw=true)
 
+## Conclusion
+Your static website is now live on Amazon S3! You can access it via the URL provided in the S3 console.
